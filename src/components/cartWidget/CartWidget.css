@@ -1,0 +1,45 @@
+.CartWithItems{
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 1.1rem !important;
+}
+.CartWidget__Numbers{
+    background-color: rgb(0, 240, 12);
+    font-size: 1.2rem;
+    color: white;
+    width: 25px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    transform: translate(-30px, -20px);
+    border-radius: 50px;
+    z-index: 40;
+    
+}
+.CartWidget__Empty{
+    background-color: rgb(255, 0, 0);
+    font-size: 1.2rem;
+    color: white;
+    width: 24px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    transform: translate(-30px, -20px);
+    border-radius: 50px;
+    z-index: 40;
+    
+}
+.cart__img{
+    width: 14%;
+    background-color: rgb(255, 255, 255);
+    border-radius: none;
+}
+
+.CartWithoutItems{
+    display: flex;
+    flex-direction: row-reverse;
+}

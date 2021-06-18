@@ -1,0 +1,38 @@
+.Contact__Container{
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Contact {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.534);
+}
+.Contact__Text{
+    width: 50%;
+    text-align: center;
+}
+.Contact__Text h1 {
+    font-size: 6rem !important;
+}
+.Contact__Images{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Contact__Images img{
+    width: 20%;
+    
+}
+.Contact__Images p{
+    font-size: 2rem;
+    font-weight: bolder;
+}

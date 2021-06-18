@@ -1,0 +1,6 @@
+.Tienda__Body {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+}

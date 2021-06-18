@@ -1,0 +1,111 @@
+/* empty cart */
+.Cart__Empty{
+    width: 100%;
+    height: 100vh;
+}
+.Empty__Container{
+    margin-top: 4vh !important;
+    width: 50%;
+    height: 100vh !important;
+    margin:auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.Empty__imageAndText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Empty__Text{
+    font-size: 3rem;
+    margin-right: 1rem;
+    font-weight: bolder;
+}
+.EmptyCart__button{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    width: 100%;
+}
+.EmptyCart__button button{
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: 1.6rem;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.322);
+}
+.EmptyCart__button button:hover{
+    border-radius: 5px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.664);
+    color: white !important;
+}
+
+/* Cart with items */
+
+.CartItems__button{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    width: 100%;
+}
+.CartItems__button button{
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: 1.6rem;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.322);
+}
+
+.CartItems__Title{
+    font-size: 3.2rem;
+    text-align: center;
+    text-shadow: 2px 2px 2px #ffffff; 
+}
+.Cart__WhithItems{
+    width: 100%;
+    height: 100vh !important;
+}
+.CartItems__button button:hover{
+    border-radius: 5px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.664);
+    color: white !important;
+}
+.CartItems__Table{
+    box-shadow: 4px 6px 8px 1px rgba(0, 0, 0, 0.664);
+    border-radius: 8px;
+    background-color: white;
+    margin-top: 5vh !important;
+    width: 70%;
+    margin: auto;
+}
+.CartTable{
+    font-size: 1.8rem !important;
+    text-align: center;
+}
+.ItemsInCart{
+    color: rgb(16, 119, 167);
+    font-size: 1.3rem !important;
+    text-align: center;
+}
+.CartItems__Total{
+    margin-top: 2rem;
+    text-align: center !important;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 2rem;    
+}
+
+.FinishBuy__buttons{
+    width: 100%;
+    display: flex !important;
+    justify-content: center !important;
+}
+.FinishBuy{
+    margin-right: 15px;
+    font-size: 1.6rem;
+    font-weight: bold !important;
+    border-radius: 15px;
+}
+.ClearCart{
+    margin-left: 15px;
+    font-size: 1.6rem;
+    font-weight: bold !important;
+    border-radius: 15px;
+}

@@ -1,0 +1,38 @@
+.Index__Container{
+    width: 100%;
+    height: 80vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-image:url(https://wp.acercandonaciones.com/wp-content/uploads/2020/02/girasoles-770x513-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.Index__Title{
+    width: 100%;
+    height: 81vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(59, 59, 59, 0.329) !important;
+}
+
+.Index__H1{
+    text-shadow: 4px 7px 2px #000000; 
+    font-size: 13.4rem !important; 
+    color: rgb(255, 255, 255);
+}
+.Index__Tienda{
+    border-radius: 5px;
+    margin-top:3vh;
+    font-weight: bolder;
+    font-size: 4rem;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.521);
+    margin-bottom: 5vh !important;
+}
+
+.Index__Tienda:hover{
+    border-radius: 5px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.842);
+    color: white !important;
+}

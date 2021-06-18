@@ -1,0 +1,20 @@
+
+.ItemDetail__title {
+    color: rgb(0, 0, 0) ;
+    margin-bottom: 3rem;
+    font-weight: bolder ;
+}
+
+.ItemDetail__description{
+    font-size: 1.8rem ;
+    margin-bottom: 2rem;
+}
+.ItemDetail__price{
+    color: green;
+    font-size: 3rem ;
+    font-weight: bolder;
+    margin-bottom: 2rem;
+}
+.ItemDetail__count{
+    margin-bottom: 2rem;
+}
