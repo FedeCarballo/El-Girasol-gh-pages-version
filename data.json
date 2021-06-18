@@ -1,0 +1,25 @@
+[{
+    "id":1,
+    "nombre":"acondicionador solido pelo seco",
+    "descr":"Pensado especialmente para aquellas personas con puntas secas",
+    "img": "../../src/assets/images/1.jpg",
+    "precio":500,
+    "stock": 5
+},
+{  
+    "id":2,
+    "nombre": "Shampoo solido 2 en 1",
+    "descr": "Shampoo para cabello con cuero cabelludo graso con puntas secas",
+    "img": "img/2.jpg",
+    "precio":350,
+    "stock": 3
+},
+{
+    "id":3,
+    "nombre":"Shampoo solido equilibrado",
+    "descr":"Este shampoo solido de 60 gr sirve para pelos sanos",
+    "img": "img/3.jpg",
+    "precio":300 ,
+    "stock": 6
+}
+]

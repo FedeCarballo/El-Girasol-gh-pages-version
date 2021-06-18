@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/El-Girasol-gh-pages-version/static/css/main.d13cf011.chunk.css",
+    "main.js": "/El-Girasol-gh-pages-version/static/js/main.1e08584f.chunk.js",
+    "main.js.map": "/El-Girasol-gh-pages-version/static/js/main.1e08584f.chunk.js.map",
+    "runtime-main.js": "/El-Girasol-gh-pages-version/static/js/runtime-main.633f5c8b.js",
+    "runtime-main.js.map": "/El-Girasol-gh-pages-version/static/js/runtime-main.633f5c8b.js.map",
+    "static/js/2.0e12c2bc.chunk.js": "/El-Girasol-gh-pages-version/static/js/2.0e12c2bc.chunk.js",
+    "static/js/2.0e12c2bc.chunk.js.map": "/El-Girasol-gh-pages-version/static/js/2.0e12c2bc.chunk.js.map",
+    "static/js/3.4d255042.chunk.js": "/El-Girasol-gh-pages-version/static/js/3.4d255042.chunk.js",
+    "static/js/3.4d255042.chunk.js.map": "/El-Girasol-gh-pages-version/static/js/3.4d255042.chunk.js.map",
+    "index.html": "/El-Girasol-gh-pages-version/index.html",
+    "static/css/main.d13cf011.chunk.css.map": "/El-Girasol-gh-pages-version/static/css/main.d13cf011.chunk.css.map",
+    "static/js/2.0e12c2bc.chunk.js.LICENSE.txt": "/El-Girasol-gh-pages-version/static/js/2.0e12c2bc.chunk.js.LICENSE.txt",
+    "static/media/AboutUs.49cd6ffe.jpg": "/El-Girasol-gh-pages-version/static/media/AboutUs.49cd6ffe.jpg",
+    "static/media/Shopping__Cart.8b70f067.svg": "/El-Girasol-gh-pages-version/static/media/Shopping__Cart.8b70f067.svg",
+    "static/media/empty_cart.c6531127.svg": "/El-Girasol-gh-pages-version/static/media/empty_cart.c6531127.svg",
+    "static/media/facebook-fot.4878f0df.svg": "/El-Girasol-gh-pages-version/static/media/facebook-fot.4878f0df.svg",
+    "static/media/instagram-fot.ff29e8ee.svg": "/El-Girasol-gh-pages-version/static/media/instagram-fot.ff29e8ee.svg",
+    "static/media/logo.f1771fbc.png": "/El-Girasol-gh-pages-version/static/media/logo.f1771fbc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.633f5c8b.js",
+    "static/js/2.0e12c2bc.chunk.js",
+    "static/css/main.d13cf011.chunk.css",
+    "static/js/main.1e08584f.chunk.js"
+  ]
+}
