@@ -1,5 +1,5 @@
 # El Girasol
-Cosmética Natural
+Cosmética Natural (version navegable por medio de GH pages)
 # Instalacion
 
 Clona el repositorio a tu locar y seguí las instrucciones (Para correr el proyecto se deben descargar y añadir las imágenes y el archivo de variables de entorno. si no tienen el mismo por favor solicitarlo.)
